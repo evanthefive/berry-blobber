@@ -56,7 +56,7 @@ var writeBerries = function (berries) {
     if (berry.onShrub) {
       document.write('Yes');
     } else {
-      document.write('No')
+      document.write('No');
     }
 
     document.write('<dd>');
